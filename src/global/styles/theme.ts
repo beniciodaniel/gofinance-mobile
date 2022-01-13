@@ -15,5 +15,11 @@ export default {
     title: '#363f5f',
     text: '#a8a8b3',
     background: '#121214'
+  },
+
+  fonts: {
+    regular: 'JetBrainsMono_400Regular',
+    medium: 'JetBrainsMono_500Medium',
+    bold: 'JetBrainsMono_700Bold'
   }
 };
