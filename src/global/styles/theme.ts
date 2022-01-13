@@ -2,7 +2,7 @@ export default {
   colors: {
     primary: '#8257e5',
 
-    secondary: '#ff7a29',
+    secondary: '#ff7a22', // TODO: Rever cor
     secondary_light: 'rgba(255, 122, 41, 0.3)',
 
     success: '#04d361',
